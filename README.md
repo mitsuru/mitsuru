@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mitsuru&show_icons=true&count_private=true" alt="github stats" />
+<img src="https://github-readme-stats-phi-green.vercel.app/api?username=mitsuru&show_icons=true&count_private=tru&include_all_commits=true" alt="github stats" />
 
 #### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitsuru" width="48%" >
