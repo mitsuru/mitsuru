@@ -6,6 +6,9 @@
 #### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitsuru" width="48%" >
 
+### 🏆GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mitsuru&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **mitsuru/mitsuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
